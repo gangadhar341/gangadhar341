@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gangadhar341
 - 👀 I’m interested in **Web Development**
-- 🌱 I’m currently working as **Engineering Intern At SSIT** 
+- 🌱 I’m currently working as **Associate Software Engineer at Aragonda-Smarthub Tech & Com Private Limited** 
 - 📫 How to reach me **gangadharampolu@gmail.com**
 - 😄 Pronouns: **He/Him**
